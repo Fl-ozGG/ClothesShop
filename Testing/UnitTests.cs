@@ -1,6 +1,6 @@
-﻿namespace TestProject1;
+﻿namespace Testing;
 
-public class UnitTest1
+public class UnitTests
 {
    [Fact]
     public void SellProduct_ReturnsFalse_IfThereIsNotEnoughStock()
